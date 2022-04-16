@@ -2,6 +2,7 @@
 - 🎓 Estou cursando Análise e Desenvolvimento de Sistemas
 - 🏡 Moro em Paty do Alferes-RJ
 - 💻 Estou a procura de uma oportunidade para Front End Junior
+- ⚠  Estou estudando Javascript, Node.js e MySQL ⚠
 
 <div align="center">
   <a href="https://github.com/ElielAlves42">
